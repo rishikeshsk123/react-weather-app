@@ -1,0 +1,10 @@
+
+.card-detail{
+    background-color: rgba(255, 204, 153, 0.5);
+    border: 0px;
+    border-radius: 3px;
+}
+
+img{
+    opacity: 0.8;
+}
